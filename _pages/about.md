@@ -17,7 +17,7 @@ News
 - [09/2025] Our paper *Mint* accepted to **NeurIPS 2025**!
 - [06/2025] Our paper *Latte* accepted to **ICCV 2025**!
 
-Education
+<h2 id="education">Education</h2>
 ======
 
 **Zhejiang University**, Jun. 2026 (Expected)    
