@@ -14,14 +14,21 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
+  - title: "News"
+    url: /#news
+
   - title: "Education"
     url: /#education
     
   - title: "Publications"
-    url: /portfolio/
+    url: /#publications
         
   - title: "Research Experience"
-    url: /year-archive/
+    url: /#research
+
+  - title: "Miscellanea"
+    url: /#miscellanea
+
     
   # - title: "CV"
   #   url: /cv/
