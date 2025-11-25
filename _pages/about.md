@@ -59,7 +59,5 @@ I worked as a research intern (2024 December - 2025 August) focusing on Test-Tim
 *Supervisor: Dr. Chuang Gan, Principal Research Staff Member, MIT–IBM Watson AI Lab*<br>
 I worked as a research intern (2025 January - Present) and foucsed on Embodied AI in Virtual Community and Dynamic Navigation.
 
-
-Miscellanea
 <h2 id="miscellanea">Miscellanea</h2>
 
