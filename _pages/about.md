@@ -48,7 +48,7 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 
 (* means equal contribution)
 
-<h2 id="research experience">Research Experience</h2>
+<h2 id="research">Research Experience</h2>
 
 **UIUC Data and Information Systems Laboratory** (specifically iDEA-iSAIL Joint Lab)<br>
 *Supervisor: Prof. Jingrui He, School of Information Science, UIUC*<br>
