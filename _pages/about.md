@@ -10,15 +10,13 @@ redirect_from:
 Hello! I'm Ruxi Deng, a senior undergraduate student majoring in Computer Engineering at the <a href="https://zjui.intl.zju.edu.cn/en/">Zhejiang University-University of Illinois Urbana-Champaign Institute</a> pursuing dual degrees, co-cultivated by <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> and the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.
 		<br><br>During my junior year, I had the privilege of working as a research intern at the <a href="https://dais.cs.illinois.edu/">UIUC Data and Information Systems Lab</a> (specifically <a href="https://www.idea-isail.com/">iDEA-iSAIL Joint Lab</a>) advised by Prof. <a href="https://www.hejingrui.org/">Jingrui He</a>, and at the <a href="https://mitibmwatsonailab.mit.edu/">MIT-IBM Watson AI Lab</a> advised by Dr. <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>.
 
-News
-======
+<h2 id="news">News</h2>
 
 - [11/2025] Our paper *Panda* accepted to **AAAI 2026**!
 - [09/2025] Our paper *Mint* accepted to **NeurIPS 2025**!
 - [06/2025] Our paper *Latte* accepted to **ICCV 2025**!
 
 <h2 id="education">Education</h2>
-======
 
 **Zhejiang University**, Jun. 2026 (Expected)    
 Bachelor of Engineering in **Electronic and Computer Engineering**
@@ -34,8 +32,8 @@ Bachelor of Science in **Computer Engineering**, GPA: **3.93/4.0**
 - **Awards:** UIUC Dean's List (2022-2023 & 2023-2024 & 2024-2025)
 - **Advanced Courses:** ECE448 Artificial Intelligence (A+), ECE494 Deep Learning of Computer Vision (A+), ECE313 Probability with Engineering Applications (A+), ECE374 Introduction to Algorithms & Models of Computation (A+), ECE310 Digital Signal Processing (A+), CS441 Applied Machine Learning (A+), CS411 Database Systems (A), CS412 Introduction of Data Mining (A+)
 
-Publications
-======
+<h2 id="publications">Publications</h2>
+
 Panda: Test-Time Adaptation with Negative Data Augmentation (**AAAI 2026**)<br>
 **Ruxi Deng**, <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>, <a href="https://weitianxin.github.io/">Tianxin Wei</a>, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
 <a href="https://arxiv.org/abs/2511.10481">arXiv</a> | <a href="https://github.com/ruxideng/Panda">Code</a>
@@ -50,8 +48,8 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 
 (* means equal contribution)
 
-Research Experience
-======
+<h2 id="research experience">Research Experience</h2>
+
 **UIUC Data and Information Systems Laboratory** (specifically iDEA-iSAIL Joint Lab)<br>
 *Supervisor: Prof. Jingrui He, School of Information Science, UIUC*<br>
 I worked as a research intern (2024 December - 2025 August) focusing on Test-Time Adaptation of Vision-Language Models.
@@ -63,5 +61,5 @@ I worked as a research intern (2025 January - Present) and foucsed on Embodied A
 
 
 Miscellanea
-======
+<h2 id="miscellanea">Miscellanea</h2>
 
