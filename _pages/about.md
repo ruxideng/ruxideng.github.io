@@ -53,15 +53,16 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 
 <h2 id="research">Research Experience</h2>
 
-<img src="/images/uiuc_lab.png" class="align-left" width="120">
+<img src="/images/isail.png" class="align-left" width="120">
 
-**UIUC Data and Information Systems Laboratory** (specifically iDEA-iSAIL Joint Lab)<br>
+**UIUC Data and Information Systems Laboratory**<br>
+(specifically iDEA-iSAIL Joint Lab)<br>
 *Supervisor: Prof. Jingrui He, School of Information Science, UIUC*<br>
 I worked as a research intern (2024 December - 2025 August) focusing on Test-Time Adaptation of Vision-Language Models.
 
 <br clear="both">
 
-<img src="/images/mit_ibm_lab.png" class="align-left" width="120">
+<img src="/images/mitibm.png" class="align-left" width="120">
 
 **MIT-IBM Watson AI Laboratory**<br>
 *Supervisor: Dr. Chuang Gan, Principal Research Staff Member, MIT–IBM Watson AI Lab*<br>
