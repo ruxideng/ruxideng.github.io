@@ -66,7 +66,7 @@ Mint: A Simple Test-Time Adaptation of Vision-Language Models against Common Cor
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/latte.png" width="207">
+  <img src="/images/latte.png" width="202">
   <div markdown="1">
 Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated Learning (**ICCV 2025**)<br>
 <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>, **Ruxi Deng**, <a href="https://q-rz.github.io/">Ruizhong Qiu</a>, <a href="https://weitianxin.github.io/">Tianxin Wei</a>, <a href="http://tonghanghang.org/">HangHang Tong</a>, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
