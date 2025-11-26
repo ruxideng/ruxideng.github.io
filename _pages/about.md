@@ -111,7 +111,7 @@ ZJU Outstanding Student (2022-2023 & 2023-2024)
 ZJU Academic Excellence Award (2022-2023 & 2023-2024)  
 ZJU Artistic and Athletic Achievement Award (2022-2023 & 2023-2024)
 
-**Sports Achievements<br>
+**Sports Achievements**<br>
 *First Prize*, 100m Sprint, 1st International Campus Games, iZJU 2023  
 *First Prize*, 10x50m Relay, 1st International Campus Games, iZJU 2023  
 *First Prize*, 10x50m Relay, Field and Track Games, ZJU 2023
