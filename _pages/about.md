@@ -13,7 +13,7 @@ Hello! I'm Ruxi Deng, a senior undergraduate student majoring in Computer Engine
 <h2 id="news">News</h2>
 
 - [Nov 2025] Our paper *Panda* accepted to **AAAI 2026**!
-- [Oct 2025] Awarded the NeurIPS 2025 Scholar Award. Thanks to NeurIPS!
+- [Oct 2025] Awarded the **NeurIPS 2025 Scholar Award**. Thanks to NeurIPS!
 - [Sep 2025] Our paper *Mint* accepted to **NeurIPS 2025**!
 - [Jun 2025] Our paper *Latte* accepted to **ICCV 2025**!
 - [Jan 2025] Joined MIT-IBM Watson AI Lab as a Research Intern. Glad for the opportunity!
@@ -21,7 +21,17 @@ Hello! I'm Ruxi Deng, a senior undergraduate student majoring in Computer Engine
 
 <h2 id="education">Education</h2>
 
-**Zhejiang University**, Jun. 2026 (Expected) Bachelor of Engineering in **Electronic and Computer Engineering**<br>
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
+  <img src="/images/zju.png" width="200">
+  <div markdown="1">
+**Zhejiang University**, Jun. 2026 (Expected)<br>
+Bachelor of Engineering in **Electronic and Computer Engineering**<br>
+GPA: **4.23/4.3** (**Ranked 1st** out of 66)
+  </div>
+</div>
+
+**Zhejiang University**, Jun. 2026 (Expected)<br>
+Bachelor of Engineering in **Electronic and Computer Engineering**<br>
 GPA: **4.23/4.3** (**Ranked 1st** out of 66)
 
 - **Scholarship:** China National Scholarship (2023-2024), ZJU Scholarship - First Prize (2023-2024), Scholarship of Zhejiang Province (2022-2023), ZJU Scholarship - Second Prize (2022-2023)
@@ -52,7 +62,7 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 <h2 id="research">Research Experience</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/isail.png" width="160">
+  <img src="/images/isail.png" width="200">
   <div markdown="1">
 **UIUC Data and Information Systems Laboratory**  
 (specifically iDEA-iSAIL Joint Lab)  
@@ -62,7 +72,7 @@ I worked as a research intern (2024 December – 2025 August) focusing on Test-T
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/mitibm.png" width="160">
+  <img src="/images/mitibm.png" width="200">
   <div markdown="1">
 **MIT-IBM Watson AI Laboratory**  
 *Supervisor: Dr. Chuang Gan, Principal Research Staff Member, MIT–IBM Watson AI Lab*  
