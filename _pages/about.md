@@ -32,8 +32,7 @@ GPA: **4.23/4.3** (**Ranked 1st** out of 66)
 <!-- no-space -->
 - **Scholarship:** China National Scholarship (2023-2024), ZJU Scholarship - First Prize (2023-2024), Scholarship of Zhejiang Province (2022-2023), ZJU Scholarship - Second Prize (2022-2023)
 - **Awards:** ZJU Outstanding Student (2022-2023 & 2023-2024), ZJU Academic Excellence Award (2022-2023 & 2023-2024), ZJU Artistic and Athletic Achievement Award (2022-2023 & 2023-2024)
-- **Courses:** MATH213 Basic Discrete Mathematics (A+), MATH221 Calculus I (A+), MATH231 Calculus II (A+), MATH241 Calculus III (A+), MATH257 Linear Algebra with Computational Applications (A+), PHYS212 Electronic & Magnetics (A+), PHYS213 Thermal Physics (A+), PHYS214 Quantum Physics (A+)<br><br><br>
-
+- **Courses:** MATH213 Basic Discrete Mathematics (A+), MATH221 Calculus I (A+), MATH231 Calculus II (A+), MATH241 Calculus III (A+), MATH257 Linear Algebra with Computational Applications (A+), PHYS212 Electronic & Magnetics (A+), PHYS213 Thermal Physics (A+), PHYS214 Quantum Physics (A+)<br><br>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/uiuc.png" width="100">
