@@ -70,5 +70,7 @@ I worked as a research intern (2025 January - Present) and foucsed on Embodied A
 
 <br clear="both">
 
+<h2 id="awards">Awards & Services</h2>
+
 <h2 id="miscellanea">Miscellanea</h2>
 
