@@ -12,9 +12,12 @@ Hello! I'm Ruxi Deng, a senior undergraduate student majoring in Computer Engine
 
 <h2 id="news">News</h2>
 
-- [11/2025] Our paper *Panda* accepted to **AAAI 2026**!
-- [09/2025] Our paper *Mint* accepted to **NeurIPS 2025**!
-- [06/2025] Our paper *Latte* accepted to **ICCV 2025**!
+- [Nov 2025] Our paper *Panda* accepted to **AAAI 2026**!
+- [Oct 2025] Awarded the NeurIPS 2025 Scholar Award. Thanks to NeurIPS!
+- [Sep 2025] Our paper *Mint* accepted to **NeurIPS 2025**!
+- [Jun 2025] Our paper *Latte* accepted to **ICCV 2025**!
+- [Jan 2025] Joined the MIT-IBM Watson AI Lab as a Research Intern. Thankful for the opportunity!
+- [Dec 2024] Joined the UIUC DAIS Lab as a Research Intern. Grateful for the opportunity!
 
 <h2 id="education">Education</h2>
 
