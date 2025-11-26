@@ -22,7 +22,7 @@ Hello! I'm **Ruxi Deng**, a senior undergraduate student majoring in Computer En
 <h2 id="education">Education</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/zju.png" width="80">
+  <img src="/images/zju.png" width="100">
   <div markdown="1">
 **Zhejiang University**, Jun. 2026 (Expected)<br>
 Bachelor of Engineering in **Electronic and Computer Engineering**<br>
@@ -35,7 +35,7 @@ GPA: **4.23/4.3** (**Ranked 1st** out of 66)
 
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/uiuc.png" width="80">
+  <img src="/images/uiuc.png" width="100">
   <div markdown="1">
 **University of Illinois Urbana-Champaign**, Jun. 2026 (Expected)<br>
 Bachelor of Science in **Computer Engineering**, GPA: **3.93/4.0**
@@ -47,7 +47,7 @@ Bachelor of Science in **Computer Engineering**, GPA: **3.93/4.0**
 <h2 id="publications">Publications</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/uiuc.png" width="100">
+  <img src="/images/uiuc.png" style="width:90px; height:90px; object-fit:contain;">
   <div markdown="1">
 Panda: Test-Time Adaptation with Negative Data Augmentation (**AAAI 2026**)<br>
 **Ruxi Deng**, <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>, <a href="https://weitianxin.github.io/">Tianxin Wei</a>, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
@@ -56,7 +56,7 @@ Panda: Test-Time Adaptation with Negative Data Augmentation (**AAAI 2026**)<br>
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/uiuc.png" width="120">
+  <img src="/images/uiuc.png" style="width:90px; height:90px; object-fit:contain;">
   <div markdown="1">
 Mint: A Simple Test-Time Adaptation of Vision-Language Models against Common Corruptions (**NeurIPS 2025**)<br>
 <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>\*, **Ruxi Deng\***, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
@@ -65,7 +65,7 @@ Mint: A Simple Test-Time Adaptation of Vision-Language Models against Common Cor
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/uiuc.png" width="120">
+  <img src="/images/uiuc.png" style="width:90px; height:90px; object-fit:contain;">
   <div markdown="1">
 Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated Learning (**ICCV 2025**)<br>
 <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>, **Ruxi Deng**, <a href="https://q-rz.github.io/">Ruizhong Qiu</a>, <a href="https://weitianxin.github.io/">Tianxin Wei</a>, <a href="http://tonghanghang.org/">HangHang Tong</a>, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
@@ -112,14 +112,14 @@ I worked as a research intern (2025 January – Present) and focused on Embodied
 <h2 id="awards">Awards & Services</h2>
 
 **Scholarship**  
-China National Scholarship (2023-2024) | ***National Top 0.2%*** (2023-2024)  
+**China National Scholarship** (2023-2024) | ***National Top 0.2%***
 ZJU Scholarship - First Prize (2023-2024)  
 Scholarship of Zhejiang Province (2022-2023)  
 ZJU Scholarship - Second Prize (2022-2023)
 
 **Awards**  
-NeurIPS 2025 Scholar Award (2025)  
-UIUC Dean's List (2022-2023 & 2023-2024 & 2024-2025)  
+**NeurIPS 2025** Scholar Award (2025)  
+**UIUC Dean's List** (2022-2023 & 2023-2024 & 2024-2025)  
 ZJU Outstanding Student (2022-2023 & 2023-2024)  
 ZJU Academic Excellence Award (2022-2023 & 2023-2024)  
 ZJU Artistic and Athletic Achievement Award (2022-2023 & 2023-2024)
@@ -129,11 +129,11 @@ ZJU Artistic and Athletic Achievement Award (2022-2023 & 2023-2024)
 *First Prize*, 10x50m Relay, 1st International Campus Games, iZJU 2023  
 *First Prize*, 10x50m Relay, Field and Track Games, ZJU 2023
 
-**Services**
+**Services**<br>
 Program Committee/Reviewer for AAAI 2026, CVPR 2026
 
-**Teaching Assistant**
-RHET101 *Principles of Writing* (23 Fall)
+**Teaching Assistant**<br>
+RHET101 *Principles of Writing* (23 Fall)  
 RHET102 *Principles of Research* (24 Spring)
 
 <h2 id="miscellanea">Miscellanea</h2>
