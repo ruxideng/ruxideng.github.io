@@ -22,7 +22,7 @@ Hello! I'm **Ruxi Deng**, a senior undergraduate student majoring in Computer En
 <h2 id="education">Education</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/zju.png" width="100">
+  <img src="/images/zju.png" width="120">
   <div markdown="1">
 **Zhejiang University**, Jun. 2026 (Expected)<br>
 Bachelor of Engineering in **Electronic and Computer Engineering**<br>
@@ -35,7 +35,7 @@ GPA: **4.23/4.3** (**Ranked 1st** out of 66)
 - **Courses:** MATH213 Basic Discrete Mathematics (A+), MATH221 Calculus I (A+), MATH231 Calculus II (A+), MATH241 Calculus III (A+), MATH257 Linear Algebra with Computational Applications (A+), PHYS212 Electronic & Magnetics (A+), PHYS213 Thermal Physics (A+), PHYS214 Quantum Physics (A+)<br><br>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/uiuc.png" width="100">
+  <img src="/images/uiuc.png" width="120">
   <div markdown="1">
 **University of Illinois Urbana-Champaign**, Jun. 2026 (Expected)<br>
 Bachelor of Science in **Computer Engineering**, GPA: **3.93/4.0**
@@ -66,7 +66,7 @@ Mint: A Simple Test-Time Adaptation of Vision-Language Models against Common Cor
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/latte.png" width="210">
+  <img src="/images/latte.png" width="207">
   <div markdown="1">
 Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated Learning (**ICCV 2025**)<br>
 <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>, **Ruxi Deng**, <a href="https://q-rz.github.io/">Ruizhong Qiu</a>, <a href="https://weitianxin.github.io/">Tianxin Wei</a>, <a href="http://tonghanghang.org/">HangHang Tong</a>, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
