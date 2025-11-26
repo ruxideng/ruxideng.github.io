@@ -54,7 +54,7 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 <h2 id="research">Research Experience</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/isail.png" width="120">
+  <img src="/images/isail.png" width="160">
   <div markdown="1">
 **UIUC Data and Information Systems Laboratory**  
 (specifically iDEA-iSAIL Joint Lab)  
@@ -64,7 +64,7 @@ I worked as a research intern (2024 December – 2025 August) focusing on Test-T
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/mitibm.png" width="120">
+  <img src="/images/mitibm.png" width="160">
   <div markdown="1">
 **MIT-IBM Watson AI Laboratory**  
 *Supervisor: Dr. Chuang Gan, Principal Research Staff Member, MIT–IBM Watson AI Lab*  
