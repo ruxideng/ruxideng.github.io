@@ -72,19 +72,6 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 <a href="https://arxiv.org/abs/2507.21494">arXiv</a> | <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Bao_Latte_Collaborative_Test-Time_Adaptation_of_Vision-Language_Models_in_Federated_Learning_ICCV_2025_paper.html">HTML</a> | <a href="https://github.com/baowenxuan/Latte">Code</a>
   </div>
 </div>
-
-Panda: Test-Time Adaptation with Negative Data Augmentation (**AAAI 2026**)<br>
-**Ruxi Deng**, <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>, <a href="https://weitianxin.github.io/">Tianxin Wei</a>, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
-<a href="https://arxiv.org/abs/2511.10481">arXiv</a> | <a href="https://github.com/ruxideng/Panda">Code</a>
-
-Mint: A Simple Test-Time Adaptation of Vision-Language Models against Common Corruptions (**NeurIPS 2025**)<br>
-<a href="https://baowenxuan.github.io/">Wenxuan Bao</a>\*, **Ruxi Deng\***, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
-<a href="https://arxiv.org/abs/2510.22127">arXiv</a> | <a href="https://github.com/baowenxuan/Mint">Code</a>
-
-Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated Learning (**ICCV 2025**)<br>
-<a href="https://baowenxuan.github.io/">Wenxuan Bao</a>, **Ruxi Deng**, <a href="https://q-rz.github.io/">Ruizhong Qiu</a>, <a href="https://weitianxin.github.io/">Tianxin Wei</a>, <a href="http://tonghanghang.org/">HangHang Tong</a>, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
-<a href="https://arxiv.org/abs/2507.21494">arXiv</a> | <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Bao_Latte_Collaborative_Test-Time_Adaptation_of_Vision-Language_Models_in_Federated_Learning_ICCV_2025_paper.html">HTML</a> | <a href="https://github.com/baowenxuan/Latte">Code</a>
-
 (* means equal contribution)
 
 <h2 id="research">Research Experience</h2>
