@@ -28,10 +28,11 @@ Hello! I'm **Ruxi Deng**, a senior undergraduate student majoring in Computer En
 Bachelor of Engineering in **Electronic and Computer Engineering**<br>
 GPA: **4.23/4.3** (**Ranked 1st** out of 66)
   </div>
-</div><br>
+</div>
+<!-- no-space -->
 - **Scholarship:** China National Scholarship (2023-2024), ZJU Scholarship - First Prize (2023-2024), Scholarship of Zhejiang Province (2022-2023), ZJU Scholarship - Second Prize (2022-2023)
 - **Awards:** ZJU Outstanding Student (2022-2023 & 2023-2024), ZJU Academic Excellence Award (2022-2023 & 2023-2024), ZJU Artistic and Athletic Achievement Award (2022-2023 & 2023-2024)
-- **Courses:** MATH213 Basic Discrete Mathematics (A+), MATH221 Calculus I (A+), MATH231 Calculus II (A+), MATH241 Calculus III (A+), MATH257 Linear Algebra with Computational Applications (A+), PHYS212 University Physics: Electronic & Magnetics (A+), PHYS213 University Physics: Thermal Physics (A+), PHYS214 University Physics: Quantum Physics (A+)<br><br><br>
+- **Courses:** MATH213 Basic Discrete Mathematics (A+), MATH221 Calculus I (A+), MATH231 Calculus II (A+), MATH241 Calculus III (A+), MATH257 Linear Algebra with Computational Applications (A+), PHYS212 Electronic & Magnetics (A+), PHYS213 Thermal Physics (A+), PHYS214 Quantum Physics (A+)<br><br><br>
 
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
@@ -40,7 +41,8 @@ GPA: **4.23/4.3** (**Ranked 1st** out of 66)
 **University of Illinois Urbana-Champaign**, Jun. 2026 (Expected)<br>
 Bachelor of Science in **Computer Engineering**, GPA: **3.93/4.0**
   </div>
-</div><br>
+</div>
+<!-- no-space -->
 - **Awards:** UIUC Dean's List (2022-2023 & 2023-2024 & 2024-2025)
 - **Advanced Courses:** ECE448 Artificial Intelligence (A+), ECE494 Deep Learning of Computer Vision (A+), ECE313 Probability with Engineering Applications (A+), ECE374 Introduction to Algorithms & Models of Computation (A+), ECE310 Digital Signal Processing (A+), CS441 Applied Machine Learning (A+), CS411 Database Systems (A), CS412 Introduction of Data Mining (A+)
 
