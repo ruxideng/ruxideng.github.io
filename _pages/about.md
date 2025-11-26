@@ -16,14 +16,14 @@ Hello! I'm Ruxi Deng, a senior undergraduate student majoring in Computer Engine
 - [Oct 2025] Awarded the NeurIPS 2025 Scholar Award. Thanks to NeurIPS!
 - [Sep 2025] Our paper *Mint* accepted to **NeurIPS 2025**!
 - [Jun 2025] Our paper *Latte* accepted to **ICCV 2025**!
-- [Jan 2025] Joined the MIT-IBM Watson AI Lab as a Research Intern. Thankful for the opportunity!
+- [Jan 2025] Joined MIT-IBM Watson AI Lab as a Research Intern. Glad for the opportunity!
 - [Dec 2024] Joined the UIUC DAIS Lab as a Research Intern. Grateful for the opportunity!
 
 <h2 id="education">Education</h2>
 
 **Zhejiang University**, Jun. 2026 (Expected)    
-Bachelor of Engineering in **Electronic and Computer Engineering**
-GPA: **4.23/4.3** (**Ranked 1st** / 66)
+Bachelor of Engineering in **Electronic and Computer Engineering**<br>
+GPA: **4.23/4.3** (**Ranked 1st** out of 66)
 
 - **Scholarship:** China National Scholarship (2023-2024), ZJU Scholarship - First Prize (2023-2024), Scholarship of Zhejiang Province (2022-2023), ZJU Scholarship - Second Prize (2022-2023)
 - **Awards:** ZJU Outstanding Student (2022-2023 & 2023-2024), ZJU Academic Excellence Award (2022-2023 & 2023-2024), ZJU Artistic and Athletic Achievement Award (2022-2023 & 2023-2024) 
@@ -53,14 +53,21 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 
 <h2 id="research">Research Experience</h2>
 
+<img src="/images/uiuc_lab.png" class="align-left" width="120">
+
 **UIUC Data and Information Systems Laboratory** (specifically iDEA-iSAIL Joint Lab)<br>
 *Supervisor: Prof. Jingrui He, School of Information Science, UIUC*<br>
 I worked as a research intern (2024 December - 2025 August) focusing on Test-Time Adaptation of Vision-Language Models.
 
+<br clear="both">
+
+<img src="/images/mit_ibm_lab.png" class="align-left" width="120">
 
 **MIT-IBM Watson AI Laboratory**<br>
 *Supervisor: Dr. Chuang Gan, Principal Research Staff Member, MIT–IBM Watson AI Lab*<br>
 I worked as a research intern (2025 January - Present) and foucsed on Embodied AI in Virtual Community and Dynamic Navigation.
+
+<br clear="both">
 
 <h2 id="miscellanea">Miscellanea</h2>
 
