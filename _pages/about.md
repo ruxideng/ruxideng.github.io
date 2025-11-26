@@ -57,7 +57,7 @@ Panda: Test-Time Adaptation with Negative Data Augmentation (**AAAI 2026**)<br>
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/mint.png" width="240">
+  <img src="/images/mint.png" width="220">
   <div markdown="1">
 Mint: A Simple Test-Time Adaptation of Vision-Language Models against Common Corruptions (**NeurIPS 2025**)<br>
 <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>\*, **Ruxi Deng\***, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
@@ -126,3 +126,8 @@ RHET102 *Principles of Research* (24 Spring)
 
 <h2 id="miscellanea">Miscellanea</h2>
 
+Athletics have always been an essential part of my life. I enjoy exploring many different sports—basketball, swimming, tennis, badminton, soccer—often starting with no prior experience, simply driven by curiosity and joy. Sports make life more colorful and fulfilling, and they offer a way to reflect on meaning, purpose, and self-growth. Among all of them, sprinting is the one that truly captivates me.  
+
+I have been a sprinter for fourteen years, ever since I unexpectedly entered a school track meet in third grade. Over the years, I have experienced the heartbreak of missing the podium by 0.03 seconds, and the indescribable exhilaration of winning my first championship. I have felt the regret of a torn quadriceps that cost me the chance to defend my title, and the thrill of sweeping the 100m, 200m, and 4×100m relay in a single meet. I endured two years of finishing “eternal second” in middle school, and I tasted the triumph of defeating a rival I hadn’t beaten in three years—just in time for my final race before graduation.  
+
+I believe that sprinting has ingrained in me a spirit of resilience and perseverance that continues to shape my studies, my research, and my life. No one remains forever the strongest on the track, nor the eternal winner—but for me, the meaning lies in the pursuit itself. That is what it means to be a runner.
