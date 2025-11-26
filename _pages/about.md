@@ -48,7 +48,7 @@ Bachelor of Science in **Computer Engineering**, GPA: **3.93/4.0**
 <h2 id="publications">Publications</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/panda.png" style="width:90px; height:90px; object-fit:contain;">
+  <img src="/images/panda.png" width="200">
   <div markdown="1">
 Panda: Test-Time Adaptation with Negative Data Augmentation (**AAAI 2026**)<br>
 **Ruxi Deng**, <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>, <a href="https://weitianxin.github.io/">Tianxin Wei</a>, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
@@ -57,7 +57,7 @@ Panda: Test-Time Adaptation with Negative Data Augmentation (**AAAI 2026**)<br>
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/mint.png" style="width:90px; height:90px; object-fit:contain;">
+  <img src="/images/mint.png" width="200">
   <div markdown="1">
 Mint: A Simple Test-Time Adaptation of Vision-Language Models against Common Corruptions (**NeurIPS 2025**)<br>
 <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>\*, **Ruxi Deng\***, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
@@ -66,7 +66,7 @@ Mint: A Simple Test-Time Adaptation of Vision-Language Models against Common Cor
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/latte.png" style="width:90px; height:90px; object-fit:contain;">
+  <img src="/images/latte.png" width="200">
   <div markdown="1">
 Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated Learning (**ICCV 2025**)<br>
 <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>, **Ruxi Deng**, <a href="https://q-rz.github.io/">Ruizhong Qiu</a>, <a href="https://weitianxin.github.io/">Tianxin Wei</a>, <a href="http://tonghanghang.org/">HangHang Tong</a>, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
