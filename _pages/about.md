@@ -23,7 +23,7 @@ Hello! I'm Ruxi Deng, a senior undergraduate student majoring in Computer Engine
 
 **Zhejiang University**, Jun. 2026 (Expected)    
 Bachelor of Engineering in **Electronic and Computer Engineering**
-GPA: **4.23/4.3** (**Ranked 1st** out of 66)
+GPA: **4.23/4.3** (**Ranked 1st** / 66)
 
 - **Scholarship:** China National Scholarship (2023-2024), ZJU Scholarship - First Prize (2023-2024), Scholarship of Zhejiang Province (2022-2023), ZJU Scholarship - Second Prize (2022-2023)
 - **Awards:** ZJU Outstanding Student (2022-2023 & 2023-2024), ZJU Academic Excellence Award (2022-2023 & 2023-2024), ZJU Artistic and Athletic Achievement Award (2022-2023 & 2023-2024) 
