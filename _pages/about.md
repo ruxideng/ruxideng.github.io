@@ -99,7 +99,7 @@ I worked as a research intern (2025 January – Present) and focused on Embodied
 <h2 id="awards">Awards & Services</h2>
 
 **Scholarship**  
-**China National Scholarship** (2023-2024) | ***National Top 0.2%***
+**China National Scholarship** (2023-2024) | ***National Top 0.2%***  
 ZJU Scholarship - First Prize (2023-2024)  
 Scholarship of Zhejiang Province (2022-2023)  
 ZJU Scholarship - Second Prize (2022-2023)
@@ -111,7 +111,7 @@ ZJU Outstanding Student (2022-2023 & 2023-2024)
 ZJU Academic Excellence Award (2022-2023 & 2023-2024)  
 ZJU Artistic and Athletic Achievement Award (2022-2023 & 2023-2024)
 
-**Sports Achievements**
+**Sports Achievements<br>
 *First Prize*, 100m Sprint, 1st International Campus Games, iZJU 2023  
 *First Prize*, 10x50m Relay, 1st International Campus Games, iZJU 2023  
 *First Prize*, 10x50m Relay, Field and Track Games, ZJU 2023
