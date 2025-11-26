@@ -21,29 +21,7 @@ Hello! I'm Ruxi Deng, a senior undergraduate student majoring in Computer Engine
 
 <h2 id="education">Education</h2>
 
-<div style="display:flex; align-items:flex-start; gap:18px; margin-bottom:24px;" markdown="1">
-  <img src="/images/zju.png" width="90">
-  <div markdown="1">
-**Zhejiang University**, Jun. 2026 (Expected)  
-Bachelor of Engineering in **Electronic and Computer Engineering**  
-GPA: **4.23/4.3** (**Ranked 1st** out of 66)
-
-- **Scholarship:** China National Scholarship (2023–2024), ZJU Scholarship – First Prize (2023–2024), Scholarship of Zhejiang Province (2022–2023), ZJU Scholarship – Second Prize (2022–2023)
-- **Awards:** ZJU Outstanding Student (2022–2023 & 2023–2024), ZJU Academic Excellence Award (2022–2023 & 2023–2024), ZJU Artistic and Athletic Achievement Award (2022–2023 & 2023–2024) 
-- **Courses:** MATH213 Basic Discrete Mathematics (A+), MATH221 Calculus I (A+), MATH231 Calculus II (A+), MATH241 Calculus III (A+), MATH257 Linear Algebra with Computational Applications (A+), PHYS212 University Physics: Electronic & Magnetics (A+), PHYS213 University Physics: Thermal Physics (A+), PHYS214 University Physics: Quantum Physics (A+)
-  </div>
-</div>
-
-<div style="display:flex; align-items:flex-start; gap:18px; margin-bottom:24px;" markdown="1">
-  <img src="/images/uiuc.png" width="90">
-  <div markdown="1">
-**University of Illinois Urbana-Champaign**, Jun. 2026 (Expected)  
-Bachelor of Science in **Computer Engineering**, GPA: **3.93/4.0**
-
-- **Awards:** UIUC Dean's List (2022–2023 & 2023–2024 & 2024–2025)
-- **Advanced Courses:** ECE448 Artificial Intelligence (A+), ECE494 Deep Learning of Computer Vision (A+), ECE313 Probability with Engineering Applications (A+), ECE374 Introduction to Algorithms & Models of Computation (A+), ECE310 Digital Signal Processing (A+), CS441 Applied Machine Learning (A+), CS411 Database Systems (A), CS412 Introduction of Data Mining (A+)
-  </div>
-</div>
+**Zhejiang University**, Jun. 2026 (Expected) Bachelor of Engineering in **Electronic and Computer Engineering**<br> GPA: **4.23/4.3** (**Ranked 1st** out of 66) - **Scholarship:** China National Scholarship (2023-2024), ZJU Scholarship - First Prize (2023-2024), Scholarship of Zhejiang Province (2022-2023), ZJU Scholarship - Second Prize (2022-2023) - **Awards:** ZJU Outstanding Student (2022-2023 & 2023-2024), ZJU Academic Excellence Award (2022-2023 & 2023-2024), ZJU Artistic and Athletic Achievement Award (2022-2023 & 2023-2024) - **Courses:** MATH213 Basic Discrete Mathematics (A+), MATH221 Calculus I (A+), MATH231 Calculus II (A+), MATH241 Calculus III (A+), MATH257 Linear Algebra with Computational Applications (A+), PHYS212 University Physics: Electronic & Magnetics (A+), PHYS213 University Physics: Thermal Physics (A+), PHYS214 University Physics: Quantum Physics (A+) **University of Illinois Urbana-Champaign**, Jun. 2026 (Expected) Bachelor of Science in **Computer Engineering**, GPA: **3.93/4.0** - **Awards:** UIUC Dean's List (2022-2023 & 2023-2024 & 2024-2025) - **Advanced Courses:** ECE448 Artificial Intelligence (A+), ECE494 Deep Learning of Computer Vision (A+), ECE313 Probability with Engineering Applications (A+), ECE374 Introduction to Algorithms & Models of Computation (A+), ECE310 Digital Signal Processing (A+), CS441 Applied Machine Learning (A+), CS411 Database Systems (A), CS412 Introduction of Data Mining (A+)
 
 <h2 id="publications">Publications</h2>
 
