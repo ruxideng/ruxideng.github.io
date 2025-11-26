@@ -53,24 +53,25 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 
 <h2 id="research">Research Experience</h2>
 
-<div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;">
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/isail.png" width="120">
-  <div>
-    **UIUC Data and Information Systems Laboratory**<br> 
-    (specifically iDEA-iSAIL Joint Lab)<br>
-    *Supervisor: Prof. Jingrui He, School of Information Science, UIUC*<br>
-    I worked as a research intern (2024 December – 2025 August) focusing on Test-Time Adaptation of Vision-Language Models.
+  <div markdown="1">
+**UIUC Data and Information Systems Laboratory**  
+(specifically iDEA-iSAIL Joint Lab)  
+*Supervisor: Prof. Jingrui He, School of Information Science, UIUC*  
+I worked as a research intern (2024 December – 2025 August) focusing on Test-Time Adaptation of Vision-Language Models.
   </div>
 </div>
 
-<div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;">
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/mitibm.png" width="120">
-  <div>
-    **MIT-IBM Watson AI Laboratory**<br>
-    *Supervisor: Dr. Chuang Gan, Principal Research Staff Member, MIT–IBM Watson AI Lab*<br>
-    I worked as a research intern (2025 January – Present) and focused on Embodied AI in Virtual Community and Dynamic Navigation.
+  <div markdown="1">
+**MIT-IBM Watson AI Laboratory**  
+*Supervisor: Dr. Chuang Gan, Principal Research Staff Member, MIT–IBM Watson AI Lab*  
+I worked as a research intern (2025 January – Present) and focused on Embodied AI in Virtual Community and Dynamic Navigation.
   </div>
 </div>
+
 
 <h2 id="awards">Awards & Services</h2>
 
