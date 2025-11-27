@@ -1,11 +1,4 @@
----
-permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+**My personal page**
 
 Hello! I'm **Ruxi Deng**, a senior undergraduate student majoring in Computer Engineering at the <a href="https://zjui.intl.zju.edu.cn/en/">Zhejiang University-University of Illinois Urbana-Champaign Institute</a> pursuing dual degrees, co-cultivated by <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> and the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.
 		<br><br>During my junior year, I had the privilege of working as a research intern at the <a href="https://dais.cs.illinois.edu/">UIUC Data and Information Systems Lab</a> (specifically <a href="https://www.idea-isail.com/">iDEA-iSAIL Joint Lab</a>) advised by Prof. <a href="https://www.hejingrui.org/">Jingrui He</a>, and at the <a href="https://mitibmwatsonailab.mit.edu/">MIT-IBM Watson AI Lab</a> advised by Dr. <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>.
@@ -80,7 +73,7 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/isail.png" width="200">
   <div markdown="1">
-**UIUC Data and Information Systems Laboratory**  
+**UIUC Data and Information Systems Laboratory**<br>
 (specifically iDEA-iSAIL Joint Lab)  
 *Supervisor: Prof. Jingrui He, School of Information Science, UIUC*  
 I worked as a research intern (2024 December – 2025 August) focusing on Test-Time Adaptation of Vision-Language Models.
@@ -90,7 +83,7 @@ I worked as a research intern (2024 December – 2025 August) focusing on Test-T
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/mitibm.png" width="200">
   <div markdown="1">
-**MIT-IBM Watson AI Laboratory**  
+**MIT-IBM Watson AI Laboratory**<br>
 *Supervisor: Dr. Chuang Gan, Principal Research Staff Member, MIT–IBM Watson AI Lab*  
 I worked as a research intern (2025 January – Present) and focused on Embodied AI in Virtual Community and Dynamic Navigation.
   </div>
@@ -99,13 +92,13 @@ I worked as a research intern (2025 January – Present) and focused on Embodied
 
 <h2 id="awards">Awards & Services</h2>
 
-**Scholarship**  
+**Scholarship**<br>
 **China National Scholarship** (2023-2024) | ***National Top 0.2%***  
 ZJU Scholarship - First Prize (2023-2024)  
 Scholarship of Zhejiang Province (2022-2023)  
 ZJU Scholarship - Second Prize (2022-2023)
 
-**Awards**  
+**Awards**<br>
 **NeurIPS 2025** Scholar Award (2025)  
 **UIUC Dean's List** (2022-2023 & 2023-2024 & 2024-2025)  
 ZJU Outstanding Student (2022-2023 & 2023-2024)  
