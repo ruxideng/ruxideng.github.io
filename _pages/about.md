@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm **Ruxi Deng**, a senior undergraduate student majoring in Computer Engineering at the <a href="https://zjui.intl.zju.edu.cn/en/">Zhejiang University-University of Illinois Urbana-Champaign Institute</a> pursuing dual degrees, co-cultivated by <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> and the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.
+Hello! I'm **Ruxi Deng**, a final-year undergraduate student majoring in Computer Engineering at the <a href="https://zjui.intl.zju.edu.cn/en/">Zhejiang University-University of Illinois Urbana-Champaign Institute</a> pursuing dual degrees, co-cultivated by <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> and the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.
 		<br><br>During my junior year, I had the privilege of working as a research intern at the <a href="https://dais.cs.illinois.edu/">UIUC Data and Information Systems Lab</a> (specifically <a href="https://www.idea-isail.com/">iDEA-iSAIL Joint Lab</a>) advised by Prof. <a href="https://www.hejingrui.org/">Jingrui He</a>, and at the <a href="https://mitibmwatsonailab.mit.edu/">MIT-IBM Watson AI Lab</a> advised by Dr. <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>.
 
 <h2 id="news">News</h2>
@@ -80,19 +80,20 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/isail.png" width="200">
   <div markdown="1">
-**UIUC Data and Information Systems Laboratory**  
-(specifically iDEA-iSAIL Joint Lab)  
+**UIUC Data and Information Systems Laboratory** (iDEA-iSAIL Joint Lab) 
+*Dec. 2024 – Aug. 2025* 
 *Supervisor: Prof. Jingrui He, School of Information Science, UIUC*  
-I worked as a research intern (2024 December – 2025 August) focusing on Test-Time Adaptation of Vision-Language Models.
+I worked as a research intern focusing on Test-Time Adaptation of Vision-Language Models.
   </div>
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/mitibm.png" width="200">
   <div markdown="1">
-**MIT-IBM Watson AI Laboratory**  
+**MIT-IBM Watson AI Laboratory** 
+*Jan. 2025 – Present* 
 *Supervisor: Dr. Chuang Gan, Principal Research Staff Member, MIT–IBM Watson AI Lab*  
-I worked as a research intern (2025 January – Present) and focused on Embodied AI in Virtual Community and Dynamic Navigation.
+I worked as a research intern and focused on Embodied AI in Virtual Community and Dynamic Navigation.
   </div>
 </div>
 
