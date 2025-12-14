@@ -78,7 +78,7 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 <h2 id="research">Research Experience</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/isail.png" width="160">
+  <img src="/images/isail.png" width="170">
   <div markdown="1">
 **UIUC Data and Information Systems Laboratory** (iDEA-iSAIL Joint Lab)   
 *Dec. 2024 – Aug. 2025*  
@@ -100,7 +100,7 @@ I worked as a research intern and focused on Embodied AI in Virtual Community an
 
 <h2 id="awards">Awards & Services</h2>
 
-**Scholarship**  
+## Scholarship  
 - **China National Scholarship** (2023-2024) -- ***National Top 0.2%***  
 - ZJU Scholarship - First Prize (2023-2024)  
 - Scholarship of Zhejiang Province (2022-2023)  
@@ -128,6 +128,6 @@ I worked as a research intern and focused on Embodied AI in Virtual Community an
 
 <h2 id="miscellanea">Miscellanea</h2>
 
-Athletics have always been an essential part of my life. I enjoy exploring many different sports—basketball, swimming, tennis, badminton, soccer—often starting with no prior experience, simply driven by curiosity and joy. Sports make life more colorful and fulfilling, and they offer a way to reflect on meaning, purpose, and self-growth. Among all of them, sprinting is the one that truly captivates me.  
+Sports have always been an essential part of my life. I enjoy exploring many different sports—basketball, swimming, tennis, badminton, soccer—often starting with no prior experience, simply driven by curiosity and joy. Sports make life more colorful and fulfilling, and they offer a way to reflect on meaning, purpose, and self-growth. Among all of them, sprinting is the one that truly captivates me.  
   
 I believe that sprinting has ingrained in me a spirit of resilience and perseverance that continues to shape my studies, my research, and my life. No one remains forever the strongest on the track, nor the eternal winner—but for me, the meaning lies in the pursuit itself. That is what it means to be a runner.
