@@ -101,29 +101,30 @@ I worked as a research intern and focused on Embodied AI in Virtual Community an
 <h2 id="awards">Awards & Services</h2>
 
 **Scholarship**  
-**China National Scholarship** (2023-2024) | ***National Top 0.2%***  
-ZJU Scholarship - First Prize (2023-2024)  
-Scholarship of Zhejiang Province (2022-2023)  
-ZJU Scholarship - Second Prize (2022-2023)
+- **China National Scholarship** (2023-2024) | ***National Top 0.2%***  
+- ZJU Scholarship - First Prize (2023-2024)  
+- Scholarship of Zhejiang Province (2022-2023)  
+- ZJU Scholarship - Second Prize (2022-2023)
 
-**Awards**  
+## Awards  
 - **NeurIPS 2025** Scholar Award (2025)  
 - **UIUC Dean's List** (2022-2023 & 2023-2024 & 2024-2025)  
 - ZJU Outstanding Student (2022-2023 & 2023-2024)  
 - ZJU Academic Excellence Award (2022-2023 & 2023-2024)  
 - ZJU Artistic and Athletic Achievement Award (2022-2023 & 2023-2024)
 
-**Sports Achievements**<br>
-*First Prize*, 100m Sprint, 1st International Campus Games, International Campus ZJU 2023
-*First Prize*, 10x50m Relay, 1st International Campus Games, International Campus ZJU 2023
-*First Prize*, 10x50m Relay, Field and Track Games, ZJU 2023
+## Sports Achievements<br>
+- *First Prize*, 100m Sprint, 1st International Campus Games, International Campus ZJU 2023
+- *First Prize*, 10x50m Relay, 1st International Campus Games, International Campus ZJU 2023
+- *First Prize*, 10x50m Relay, Field and Track Games, ZJU 2023
 
-**Services**<br>
-Program Committee/Reviewer for AAAI 2026, CVPR 2026
+## Services**<br>
+- Program Committee/Reviewer for AAAI 2026, CVPR 2026
+- 
 
-**Teaching Assistant**<br>
-RHET101 *Principles of Writing* (23 Fall)  
-RHET102 *Principles of Research* (24 Spring)
+## Teaching Assistant**<br>
+- RHET101 *Principles of Writing* (23 Fall)  
+- RHET102 *Principles of Research* (24 Spring)
 
 <h2 id="miscellanea">Miscellanea</h2>
 
