@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hello! I'm **Ruxi Deng**, a final-year undergraduate student majoring in Computer Engineering at the <a href="https://zjui.intl.zju.edu.cn/en/">Zhejiang University-University of Illinois Urbana-Champaign Institute</a> pursuing dual degrees, co-cultivated by <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> and the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.
-		<br><br>During my junior year, I had the privilege of working as a research intern at the <a href="https://dais.cs.illinois.edu/">UIUC Data and Information Systems Lab</a> (specifically <a href="https://www.idea-isail.com/">iDEA-iSAIL Joint Lab</a>) advised by Prof. <a href="https://www.hejingrui.org/">Jingrui He</a>, and at the <a href="https://mitibmwatsonailab.mit.edu/">MIT-IBM Watson AI Lab</a> advised by Dr. <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>.
+		<br><br>During my junior year, I had the privilege of working as a research intern at the <a href="https://dais.cs.illinois.edu/">UIUC Data and Information Systems Lab</a> (specifically <a href="https://www.idea-isail.com/">iDEA-iSAIL Joint Lab</a>) advised by Prof. <a href="https://www.hejingrui.org/">Jingrui He</a>, and currently at the <a href="https://mitibmwatsonailab.mit.edu/">MIT-IBM Watson AI Lab</a> advised by Dr. <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>.
 
 <h2 id="news">News</h2>
 
@@ -80,8 +80,8 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/isail.png" width="200">
   <div markdown="1">
-**UIUC Data and Information Systems Laboratory** (iDEA-iSAIL Joint Lab) 
-*Dec. 2024 – Aug. 2025* 
+**UIUC Data and Information Systems Laboratory** (iDEA-iSAIL Joint Lab)   
+*Dec. 2024 – Aug. 2025*  
 *Supervisor: Prof. Jingrui He, School of Information Science, UIUC*  
 I worked as a research intern focusing on Test-Time Adaptation of Vision-Language Models.
   </div>
@@ -90,8 +90,8 @@ I worked as a research intern focusing on Test-Time Adaptation of Vision-Languag
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/mitibm.png" width="200">
   <div markdown="1">
-**MIT-IBM Watson AI Laboratory** 
-*Jan. 2025 – Present* 
+**MIT-IBM Watson AI Laboratory**  
+*Jan. 2025 – Present*  
 *Supervisor: Dr. Chuang Gan, Principal Research Staff Member, MIT–IBM Watson AI Lab*  
 I worked as a research intern and focused on Embodied AI in Virtual Community and Dynamic Navigation.
   </div>
@@ -107,15 +107,15 @@ Scholarship of Zhejiang Province (2022-2023)
 ZJU Scholarship - Second Prize (2022-2023)
 
 **Awards**  
-**NeurIPS 2025** Scholar Award (2025)  
-**UIUC Dean's List** (2022-2023 & 2023-2024 & 2024-2025)  
-ZJU Outstanding Student (2022-2023 & 2023-2024)  
-ZJU Academic Excellence Award (2022-2023 & 2023-2024)  
-ZJU Artistic and Athletic Achievement Award (2022-2023 & 2023-2024)
+- **NeurIPS 2025** Scholar Award (2025)  
+- **UIUC Dean's List** (2022-2023 & 2023-2024 & 2024-2025)  
+- ZJU Outstanding Student (2022-2023 & 2023-2024)  
+- ZJU Academic Excellence Award (2022-2023 & 2023-2024)  
+- ZJU Artistic and Athletic Achievement Award (2022-2023 & 2023-2024)
 
 **Sports Achievements**<br>
-*First Prize*, 100m Sprint, 1st International Campus Games, iZJU 2023  
-*First Prize*, 10x50m Relay, 1st International Campus Games, iZJU 2023  
+*First Prize*, 100m Sprint, 1st International Campus Games, International Campus ZJU 2023
+*First Prize*, 10x50m Relay, 1st International Campus Games, International Campus ZJU 2023
 *First Prize*, 10x50m Relay, Field and Track Games, ZJU 2023
 
 **Services**<br>
