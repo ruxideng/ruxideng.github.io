@@ -61,7 +61,7 @@ Panda: Test-Time Adaptation with Negative Data Augmentation (**AAAI 2026**)<br>
   <div markdown="1">
 Mint: A Simple Test-Time Adaptation of Vision-Language Models against Common Corruptions (**NeurIPS 2025**)<br>
 <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>\*, **Ruxi Deng\***, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
-<a href="https://arxiv.org/abs/2510.22127">arXiv</a> | <a href="https://github.com/baowenxuan/Mint">Code</a>
+<a href="https://arxiv.org/abs/2510.22127">arXiv</a> | <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/115156">HTML</a> | <a href="https://github.com/baowenxuan/Mint">Code</a>
   </div>
 </div>
 
@@ -78,7 +78,7 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 <h2 id="research">Research Experience</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/isail.png" width="200">
+  <img src="/images/isail.png" width="160">
   <div markdown="1">
 **UIUC Data and Information Systems Laboratory** (iDEA-iSAIL Joint Lab)   
 *Dec. 2024 – Aug. 2025*  
@@ -101,7 +101,7 @@ I worked as a research intern and focused on Embodied AI in Virtual Community an
 <h2 id="awards">Awards & Services</h2>
 
 **Scholarship**  
-- **China National Scholarship** (2023-2024) - ***National Top 0.2%***  
+- **China National Scholarship** (2023-2024) -- ***National Top 0.2%***  
 - ZJU Scholarship - First Prize (2023-2024)  
 - Scholarship of Zhejiang Province (2022-2023)  
 - ZJU Scholarship - Second Prize (2022-2023)
