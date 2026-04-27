@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Ruxi Deng"
   pronouns         : # example: "she/her"  
-  bio              : "Senior undergraduate majoring in Computer Engineering at the Zhejiang University-University of Illinois Urbana-Champaign Institute"
+  bio              : "Senior undergraduate majoring in Computer Engineering at the ZJU-UIUC Institute"
   location         : "Zhejiang, China"
-  employer         : "MIT-IBM Watson AI Lab"
+  # employer         : "UIUC DAIS Lab"
   uri              : # URL
   email            : "ruxid2@illinois.edu" 
 
