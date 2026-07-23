@@ -14,7 +14,7 @@ Previously, I had the privilege of working as a research intern at the <a href="
 <h2 id="education">Education</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/uiuc.png" width="115">
+  <img src="/images/harvard.png" width="115">
   <div markdown="1">
 **Harvard University**, May. 2028 (Expected)<br>
 Master of Engineering in **Computational Science and Engineering**,<br>
@@ -23,7 +23,7 @@ Incoming student
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/uiuc.png" width="120">
+  <img src="/images/uiuc.png" width="115">
   <div markdown="1">
 **University of Illinois Urbana-Champaign**, May. 2026<br>
 Bachelor of Science in **Computer Engineering**,<br>
