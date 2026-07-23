@@ -16,8 +16,9 @@ Previously, I had the privilege of working as a research intern at the <a href="
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/zju.png" width="120">
   <div markdown="1">
-**Zhejiang University**, Jun. 2026 (Expected)<br>
+**Zhejiang University**, Jul. 2026<br>
 Bachelor of Engineering in **Electronic and Computer Engineering**<br>
+**Outstanding Graduate of both Zhejiang Province and Zhejiang University**<br>
   </div>
 </div>
 <!-- no-space -->
@@ -26,8 +27,9 @@ Bachelor of Engineering in **Electronic and Computer Engineering**<br>
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/uiuc.png" width="120">
   <div markdown="1">
-**University of Illinois Urbana-Champaign**, Jun. 2026 (Expected)<br>
-Bachelor of Science in **Computer Engineering**
+**University of Illinois Urbana-Champaign**, May. 2026<br>
+Bachelor of Science in **Computer Engineering**<br>
+graduating with **Highest Honors**<br>
   </div>
 </div>
 <!-- no-space -->
