@@ -14,22 +14,31 @@ Previously, I had the privilege of working as a research intern at the <a href="
 <h2 id="education">Education</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
+  <img src="/images/uiuc.png" width="115">
+  <div markdown="1">
+**Harvard University**, May. 2028 (Expected)<br>
+Master of Engineering in **Computational Science and Engineering**,<br>
+Incoming student
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/uiuc.png" width="120">
   <div markdown="1">
 **University of Illinois Urbana-Champaign**, May. 2026<br>
 Bachelor of Science in **Computer Engineering**,<br>
-graduating with **Highest Honors**<br>
+graduating with **Highest Honors**
   </div>
 </div>
 <!-- no-space -->
-- **Courses:** ECE310 Digital Signal Processing, ECE313 Probability with Engineering Applications, ECE374 Introduction to Algorithms & Models of Computation, ECE448 Artificial Intelligence, ECE494 Deep Learning of Computer Vision, CS411 Database Systems, CS412 Introduction of Data Mining, CS441 Applied Machine Learning
+- **Courses:** ECE310 Digital Signal Processing, ECE313 Probability with Engineering Applications, ECE374 Introduction to Algorithms & Models of Computation, ECE448 Artificial Intelligence, ECE494 Deep Learning of Computer Vision, CS411 Database Systems, CS412 Introduction of Data Mining, CS441 Applied Machine Learning<br>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/zju.png" width="120">
   <div markdown="1">
 **Zhejiang University**, Jul. 2026<br>
 Bachelor of Engineering in **Electronic and Computer Engineering**,<br>
-**Outstanding Graduate** of both Zhejiang Province and Zhejiang University<br>
+**Outstanding Graduate** of both Zhejiang Province and Zhejiang University
   </div>
 </div>
 <!-- no-space -->
