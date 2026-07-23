@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm **Ruxi Deng**, an incoming master's student in **Computational Science and Engineering** at **Harvard University**. Previously, I earned a Bachelor of Science in **Computer Engineering** from the **University of Illinois Urbana-Champaign**, graduating with **Highest Honors**, and a Bachelor of Engineering in **Electronic and Computer Engineering** from **Zhejiang University**.
+Hello! I'm **Ruxi Deng**, an incoming graduate student in Computational Science and Engineering at <a href="https://www.harvard.edu/">Harvard University</a>. I earned my bachelor degree in Computer Engineering, graduating with **Highest Honors** from the <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a> and <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>.
 
-During my undergraduate studies, I had the privilege of working as a research intern at the **UIUC Data and Intelligent Systems Lab** advised by Prof. <a href="https://www.hejingrui.org/">Jingrui He</a>, and **MIT-IBM Computing Research Lab** advised by Dr. <a href="https://mitibm.mit.edu/people/chuang-gan/">Chuang Gan</a>.
+Previously, I had the privilege of working as a research intern at the <a href="https://dais.cs.illinois.edu/">UIUC Data and Intelligent Systems Lab</a> advised by Prof. <a href="https://www.hejingrui.org/">Jingrui He</a>, and <a href="https://mitibm.mit.edu/">MIT-IBM Computing Research Lab</a> advised by Dr. <a href="https://mitibm.mit.edu/people/chuang-gan/">Chuang Gan</a>.
 
 <h2 id="education">Education</h2>
 
