@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm **Ruxi Deng**, a final-year undergraduate student majoring in Electronic and Computer Engineering at the <a href="https://zjui.intl.zju.edu.cn/en/">Zhejiang University-University of Illinois Urbana-Champaign Institute</a>, co-cultivated by <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> and the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.
-		<br><br>During my junior year, I had the privilege of working as a research intern at the <a href="https://dais.cs.illinois.edu/">UIUC Data and Information Systems Lab</a> (specifically <a href="https://www.idea-isail.com/">iDEA-iSAIL Joint Lab</a>) advised by Prof. <a href="https://www.hejingrui.org/">Jingrui He</a>.
+Hello! I'm **Ruxi Deng**, an incoming master's student in **Computational Science and Engineering** at **Harvard University**. Previously, I earned a Bachelor of Science in **Computer Engineering** from the **University of Illinois Urbana-Champaign**, graduating with **Highest Honors**, and a Bachelor of Engineering in **Electronic and Computer Engineering** from **Zhejiang University**.
+
+During my undergraduate studies, I had the privilege of working as a research intern at the **UIUC Data and Intelligent Systems Lab** advised by Prof. <a href="https://www.hejingrui.org/">Jingrui He</a>, and **MIT-IBM Computing Research Lab** advised by Dr. <a href="https://mitibm.mit.edu/people/chuang-gan/">Chuang Gan</a>.
 
 <h2 id="education">Education</h2>
 
