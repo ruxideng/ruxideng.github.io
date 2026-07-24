@@ -30,8 +30,6 @@ Bachelor of Science in **Computer Engineering**,<br>
 graduating with **Highest Honors**
   </div>
 </div>
-<!-- no-space -->
-- **Courses:** ECE310 Digital Signal Processing, ECE313 Probability with Engineering Applications, ECE374 Introduction to Algorithms & Models of Computation, ECE448 Artificial Intelligence, ECE494 Deep Learning of Computer Vision, CS411 Database Systems, CS412 Introduction of Data Mining, CS441 Applied Machine Learning<br>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/zju.png" width="120">
@@ -41,8 +39,6 @@ Bachelor of Engineering in **Electronic and Computer Engineering**,<br>
 **Outstanding Graduate** of both Zhejiang Province and Zhejiang University
   </div>
 </div>
-<!-- no-space -->
-- **Courses:** MATH213 Basic Discrete Mathematics, MATH221 Calculus I, MATH231 Calculus II, MATH241 Calculus III, MATH257 Linear Algebra with Computational Applications, MATH285 Differential Equations, PHYS211 Mechanics, PHYS212 Electronic & Magnetics, PHYS213 Thermal Physics, PHYS214 Quantum Physics<br><br>
 
 <h2 id="publications">Publications</h2>
 
