@@ -14,7 +14,7 @@ Previously, I had the privilege of working as a research intern at the <a href="
 <h2 id="education">Education</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/harvard.png" width="115">
+  <img src="/images/harvard.png" width="145">
   <div markdown="1">
 **Harvard University**, May. 2028 (Expected)<br>
 Master of Engineering in **Computational Science and Engineering**,<br>
@@ -23,7 +23,7 @@ Incoming student
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/uiuc.png" width="115">
+  <img src="/images/uiuc.png" width="135">
   <div markdown="1">
 **University of Illinois Urbana-Champaign**, May. 2026<br>
 Bachelor of Science in **Computer Engineering**,<br>
@@ -32,7 +32,7 @@ graduating with **Highest Honors**
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/zju.png" width="120">
+  <img src="/images/zju.png" width="150">
   <div markdown="1">
 **Zhejiang University**, Jul. 2026<br>
 Bachelor of Engineering in **Electronic and Computer Engineering**,<br>
@@ -61,7 +61,7 @@ Mint: A Simple Test-Time Adaptation of Vision-Language Models against Common Cor
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/latte.png" width="203">
+  <img src="/images/latte.png" width="206">
   <div markdown="1">
 Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated Learning (**ICCV 2025**)<br>
 <a href="https://baowenxuan.github.io/">Wenxuan Bao</a>, **Ruxi Deng**, <a href="https://q-rz.github.io/">Ruizhong Qiu</a>, <a href="https://weitianxin.github.io/">Tianxin Wei</a>, <a href="http://tonghanghang.org/">HangHang Tong</a>, <a href="https://www.hejingrui.org/">Jingrui He</a><br>
@@ -74,7 +74,7 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 <h2 id="research">Internship & Research Experience</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/qwen.png" width="170">
+  <img src="/images/qwen.png" width="160">
   <div markdown="1">
 **Qwen, ATH Business Group, Alibaba**   
 *May. 2026 – Aug. 2026*    
@@ -83,7 +83,7 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/mitibm.png" width="170">
+  <img src="/images/mitibm.png" width="160">
   <div markdown="1">
 **MIT-IBM Computing Research Lab**
 *Jan. 2025 – Mar. 2026*  
