@@ -23,7 +23,7 @@ Incoming student
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/uiuc.png" width="135">
+  <img src="/images/uiuc.png" width="145">
   <div markdown="1">
 **University of Illinois Urbana-Champaign**, May. 2026<br>
 Bachelor of Science in **Computer Engineering**,<br>
