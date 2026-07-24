@@ -102,15 +102,22 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
   </div>
 </div>
 
+**Graduation Honors**  
+- Graduated with **Highest Honors**, University of Illinois Urbana-Champaign
+- Outstanding Graduate of Zhejiang Province
+- Outstanding Graduate of Zhejiang University
 
 <h2 id="awards">Awards & Services</h2>
 
 Scholarship  
-- China National Scholarship
-- Scholarship of Zhejiang Province
-- Zhejiang University Scholarship - First Prize
+- National Scholarship
+- Zhejiang Provincial Government Scholarship
+- Zhejiang University First-Class Scholarship
+- ZJU-UIUC Institute First-Class Scholarship
 
 Awards  
+- NeurIPS 2025 Scholar Award
+- UIUC Dean's List
 - ZJU Outstanding Student
 - ZJU Academic Excellence Award
 - ZJU Artistic and Athletic Achievement Award
@@ -119,7 +126,3 @@ Sports Achievements<br>
 - *First Prize*, 100m Sprint, 1st International Campus Games, International Campus ZJU 2023
 - *First Prize*, 10x50m Relay, 1st International Campus Games, International Campus ZJU 2023
 - *First Prize*, 10x50m Relay, Field and Track Games, ZJU 2023
-
-Teaching Assistant  
-- RHET101 Principles of Writing
-- RHET102 Principles of Research
