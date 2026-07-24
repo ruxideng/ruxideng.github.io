@@ -74,7 +74,7 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 <h2 id="research">Internship & Research Experience</h2>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/isail.png" width="170">
+  <img src="/images/qwen.png" width="170">
   <div markdown="1">
 **Qwen, ATH Business Group, Alibaba**   
 *May. 2026 – Aug. 2026*    
@@ -83,22 +83,22 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/isail.png" width="170">
+  <img src="/images/mitibm.png" width="170">
   <div markdown="1">
 **MIT-IBM Computing Research Lab**
 *Jan. 2025 – Mar. 2026*  
 *Supervisor: Dr. Chuang Gan, MIT-IBM Computing Research Lab*  
-*Position: Research Intern, Embodied Agents*
+*Position: Research Assistant, Embodied Agents*
   </div>
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/isail.png" width="170">
   <div markdown="1">
-**UIUC Data and Information Systems Laboratory**
+**UIUC Data and Intelligent Systems Lab**
 *Dec. 2024 – Aug. 2025*  
 *Supervisor: Prof. Jingrui He, School of Information Science, UIUC*  
-*Position: Research Intern, Vision-Language Models*
+*Position: Research Assistant, Vision-Language Models*
   </div>
 </div>
 
