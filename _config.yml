@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ruxi Deng"
-  pronouns         : # example: "she/her"  
-  bio              : "Senior undergraduate majoring in Electronic and Computer Engineering at the ZJU-UIUC Institute"
-  location         : "Zhejiang, China"
+  pronouns         : # example: "he/his"  
+  bio              : "Incoming graduate student in Computational Science and Engineering at Harvard University"
+  location         : "Cambridge, MA, USA"
   # employer         : "UIUC DAIS Lab"
   uri              : # URL
   email            : "ruxid2@illinois.edu" 
