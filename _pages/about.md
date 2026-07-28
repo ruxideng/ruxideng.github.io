@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I'm **Ruxi Deng**, an incoming graduate student in Computational Science and Engineering at <a href="https://www.harvard.edu/">Harvard University</a>. I earned my bachelor degree in Computer Engineering, graduating with **Highest Honors** from the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> and <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>.
 
-Previously, I had the privilege of working as a research intern at the <a href="https://dais.cs.illinois.edu/">UIUC Data and Intelligent Systems Lab</a> advised by Prof. <a href="https://www.hejingrui.org/">Jingrui He</a>, and <a href="https://mitibm.mit.edu/">MIT-IBM Computing Research Lab</a> advised by Dr. <a href="https://mitibm.mit.edu/people/chuang-gan/">Chuang Gan</a>.
+Currently, I am a research intern with the Qwen Team at Alibaba Group, focusing on LLM agents.Previously, I had the privilege of working as a research intern at the <a href="https://dais.cs.illinois.edu/">UIUC Data and Intelligent Systems Lab</a> advised by Prof. <a href="https://www.hejingrui.org/">Jingrui He</a>, and <a href="https://mitibm.mit.edu/">MIT-IBM Computing Research Lab</a> advised by Dr. <a href="https://mitibm.mit.edu/people/chuang-gan/">Chuang Gan</a>.
 
 <h2 id="education">Education</h2>
 
@@ -76,8 +76,8 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/qwen.png" width="160">
   <div markdown="1">
-**Qwen, ATH Business Group, Alibaba**     
-*May. 2026 – Aug. 2026*    
+**Qwen Team, Alibaba Group**     
+*May. 2026 – Present*    
 *Position: Research Intern, LLM Agents*
   </div>
 </div>
@@ -88,7 +88,7 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 **MIT-IBM Computing Research Lab**  
 *Jan. 2025 – Mar. 2026*  
 *Supervisor: Dr. Chuang Gan, MIT-IBM Computing Research Lab*  
-*Position: Research Assistant, Embodied Agents*
+*Position: Research Intern, Embodied Agents*
   </div>
 </div>
 
@@ -98,7 +98,7 @@ Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated
 **UIUC Data and Intelligent Systems Lab**  
 *Dec. 2024 – Aug. 2025*  
 *Supervisor: Prof. Jingrui He, School of Information Science, UIUC*  
-*Position: Research Assistant, Vision-Language Models*
+*Position: Research Intern, Vision-Language Models*
   </div>
 </div>
 
