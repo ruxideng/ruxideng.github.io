@@ -14,8 +14,8 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "News"
-    url: /#news
+  # - title: "News"
+  #   url: /#news
 
   - title: "Education"
     url: /#education
@@ -23,14 +23,14 @@ main:
   - title: "Publications"
     url: /#publications
         
-  - title: "Research Experience"
+  - title: "Internship & Research Experience"
     url: /#research
 
-  - title: "Awards & Services"
+  - title: "Awards"
     url: /#awards
 
-  - title: "Miscellanea"
-    url: /#miscellanea
+  # - title: "Miscellanea"
+  #   url: /#miscellanea
 
     
   # - title: "CV"
