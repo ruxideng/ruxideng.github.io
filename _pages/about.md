@@ -22,7 +22,7 @@ Master of Engineering in **Computational Science and Engineering**<br>
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/mit.png" width="150">
+  <img src="/images/mit.png" width="147">
   <div markdown="1">
 **Massachusetts Institute of Technology**<br>
 Cross Registration<br>
@@ -39,7 +39,7 @@ Graduated with **Highest Honors**
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/zju.png" width="150">
+  <img src="/images/zju.png" width="147">
   <div markdown="1">
 **Zhejiang University**, Jul. 2026<br>
 Bachelor of Engineering in **Electronic and Computer Engineering**<br>
