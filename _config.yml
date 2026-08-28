@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Ruxi Deng"
   pronouns         : # example: "he/his"  
-  bio              : "Incoming graduate student in Computational Science and Engineering at Harvard University"
+  bio              : "Graduate student in Computational Science and Engineering at Harvard University"
   location         : "Cambridge, MA, USA"
-  # employer         : "UIUC DAIS Lab"
+  # employer         : ""
   uri              : # URL
   email            : "ruxid2@illinois.edu" 
 
