@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm **Ruxi Deng**, an incoming graduate student in Computational Science and Engineering at <a href="https://www.harvard.edu/">Harvard University</a>. I earned my bachelor degree in Computer Engineering, graduating with **Highest Honors** from the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> and <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>.
+Hello! I'm **Ruxi Deng**, a graduate student in Computational Science and Engineering at <a href="https://www.harvard.edu/">Harvard University</a>. I earned my bachelor degree in Computer Engineering, graduating with **Highest Honors** from the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> and <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>.
 
 Currently, I work as a research intern with the <a href="https://qwen.ai/qwenchat">Qwen Team</a> at <a href="https://www.alibabagroup.com/en-US/home">Alibaba Group</a>, focusing on LLM agents. Previously, I had the privilege of working as a research intern at the <a href="https://dais.cs.illinois.edu/">UIUC Data and Intelligent Systems Lab</a> advised by Prof. <a href="https://www.hejingrui.org/">Jingrui He</a>, and <a href="https://mitibm.mit.edu/">MIT-IBM Computing Research Lab</a> advised by Dr. <a href="https://mitibm.mit.edu/people/chuang-gan/">Chuang Gan</a>.
 
@@ -16,9 +16,16 @@ Currently, I work as a research intern with the <a href="https://qwen.ai/qwencha
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
   <img src="/images/harvard.png" width="145">
   <div markdown="1">
-**Harvard University**, May. 2028 (Expected)<br>
-Master of Engineering in **Computational Science and Engineering**,<br>
-Incoming student
+**Harvard University**<br>
+Master of Engineering in **Computational Science and Engineering**<br>
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
+  <img src="/images/mit.png" width="145">
+  <div markdown="1">
+**Massachusetts Institute of Technology**<br>
+Cross Registration<br>
   </div>
 </div>
 
@@ -26,7 +33,7 @@ Incoming student
   <img src="/images/uiuc2.png" width="145">
   <div markdown="1">
 **University of Illinois Urbana-Champaign**, May. 2026<br>
-Bachelor of Science in **Computer Engineering**,<br>
+Bachelor of Science in **Computer Engineering**<br>
 Graduated with **Highest Honors**
   </div>
 </div>
@@ -35,7 +42,7 @@ Graduated with **Highest Honors**
   <img src="/images/zju.png" width="150">
   <div markdown="1">
 **Zhejiang University**, Jul. 2026<br>
-Bachelor of Engineering in **Electronic and Computer Engineering**,<br>
+Bachelor of Engineering in **Electronic and Computer Engineering**<br>
 **Outstanding Graduate** of both Zhejiang Province and Zhejiang University
   </div>
 </div>
