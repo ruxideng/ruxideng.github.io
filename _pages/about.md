@@ -13,7 +13,7 @@ Currently, I work as a research intern with the <a href="https://qwen.ai/qwencha
 
 <h2 id="education">Education</h2>
 
-<div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:16px;" markdown="1">
   <img src="/images/harvard.png" width="145">
   <div markdown="1">
 **Harvard University**<br>
@@ -21,7 +21,7 @@ Master of Engineering in **Computational Science and Engineering**<br>
   </div>
 </div>
 
-<div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:16px;" markdown="1">
   <img src="/images/mit.png" width="147">
   <div markdown="1">
 **Massachusetts Institute of Technology**<br>
@@ -29,7 +29,7 @@ Cross Registration<br>
   </div>
 </div>
 
-<div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:16px;" markdown="1">
   <img src="/images/uiuc2.png" width="145">
   <div markdown="1">
 **University of Illinois Urbana-Champaign**, May. 2026<br>
@@ -38,7 +38,7 @@ Graduated with **Highest Honors**
   </div>
 </div>
 
-<div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:16px;" markdown="1">
   <img src="/images/zju.png" width="147">
   <div markdown="1">
 **Zhejiang University**, Jul. 2026<br>
