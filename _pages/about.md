@@ -22,7 +22,7 @@ Master of Engineering in **Computational Science and Engineering**<br>
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:32px;" markdown="1">
-  <img src="/images/mit.png" width="145">
+  <img src="/images/mit.png" width="160">
   <div markdown="1">
 **Massachusetts Institute of Technology**<br>
 Cross Registration<br>
