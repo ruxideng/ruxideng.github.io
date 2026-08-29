@@ -32,7 +32,7 @@ Cross Registration<br>
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:12px;" markdown="1">
   <img src="/images/uiuc2.png" width="145">
   <div markdown="1">
-**University of Illinois Urbana-Champaign**, May. 2026<br>
+**University of Illinois Urbana-Champaign**, May 2026<br>
 Bachelor of Science in **Computer Engineering**<br>
 Graduated with **Highest Honors**
   </div>
@@ -41,7 +41,7 @@ Graduated with **Highest Honors**
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:12px;" markdown="1">
   <img src="/images/zju.png" width="147">
   <div markdown="1">
-**Zhejiang University**, Jul. 2026<br>
+**Zhejiang University**, July 2026<br>
 Bachelor of Engineering in **Electronic and Computer Engineering**<br>
 **Outstanding Graduate** of both Zhejiang Province and Zhejiang University
   </div>
