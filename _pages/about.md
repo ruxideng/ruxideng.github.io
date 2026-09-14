@@ -43,7 +43,8 @@ Graduated with **Highest Honors**
   <div markdown="1">
 **Zhejiang University**, July 2026<br>
 Bachelor of Engineering in **Electronic and Computer Engineering**<br>
-**Outstanding Graduate** of both Zhejiang Province and Zhejiang University
+Graduated with **Highest Honors**<br>
+Ranked **1st** out of 65
   </div>
 </div>
 
