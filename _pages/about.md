@@ -25,7 +25,7 @@ Master of Engineering in **Computational Science and Engineering**<br>
   <img src="/images/mit.png" width="147">
   <div markdown="1">
 **Massachusetts Institute of Technology**<br>
-Cross Registration in EECS Department<br>
+Cross Registration in **EECS Department**<br>
   </div>
 </div>
 
